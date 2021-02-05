@@ -1,0 +1,27 @@
+{
+  "name": "Boş-Guard-Taslağı",
+  "version": "1.0.0",
+  "description": "Saldiray Boş-Guard-Taslağı.",
+  "main": "saldiray.js",
+  "scripts": {
+    "start": "node saldiray.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saldiray-Github/Boş-Guard-Taslağı"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saldiray-Github/Boş-Guard-Taslağı"
+  },
+  "homepage": "https://github.com/Saldiray-Github/Boş-Guard-Taslağı",
+  "dependencies": {
+  },
+  "keywords": [
+    "Author",
+    "Saldiray",
+    "Discord",
+    "Saldiray#0025"
+  ]
+}
